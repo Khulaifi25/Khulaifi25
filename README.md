@@ -24,7 +24,7 @@
 
 ## Knowledge
 
-- **Frontend:**<br/> [![Skills](https://skillicons.dev/icons?i=figma,bootstrap,html,css,js,tailwind&theme=dark&perline=6](https://github.com/tandpfun/skill-icons)
+- **Frontend:**<br/> [![Skills](https://skillicons.dev/icons?i=figma,bootstrap,html,css,js,tailwind&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
 - **Backend:**<br/> [![Skills](https://skillicons.dev/icons?i=laravel,js,php,arduino&theme=dark&perline=6)](https://github.com/tandpfun/skill-icons)
 
